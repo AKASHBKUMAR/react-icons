@@ -14,8 +14,8 @@ const App = () => {
         <div className="icon">
         <img src="https://banner2.cleanpng.com/20180420/jaw/kisspng-eye-computer-icons-eye-pupil-5ad968a012bfe4.2922474615241975360768.jpg" alt="eye" />
         </div>
-        <h2 className="name">Name: John Doe</h2>
-        <p className="registration">Registration No: 123456</p>
+        <h2 className="name">Name: Akash kumar B</h2>
+        <p className="registration">Registration No: 212221040011</p>
         <button className="button" onClick={toggleDetails}>
           {showDetails ? 'Hide Details' : 'Show Details'}
         </button>
